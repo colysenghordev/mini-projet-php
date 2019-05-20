@@ -1,0 +1,7 @@
+abc|Diayenaba|Touré|12-15-1245|77 452 89 32|dt@gmail.com|Céliba
+def|Pape|Tine|20-15-4789|77 015 25 63|pt@gmail.com|Céliba
+ghi|Abdou|Diouf|12-05-1875|77 485 12 45|ad@yahoo.fr|Céliba
+jkl|Babacar|Camara|14-03-1987|70 125 48 56|bc@gmail.com|Céliba
+mno|Maman|Ndiaye|06-06-1997|77 854 21 56|mg@gmail.com|Céliba
+pqr|Oumy|Seck|02-12-1880|77 489 56 23|os@gmail.com|Mariée
+stu|Olimata|Sow|07-06-1528|76 489 56 23|os@gmail.com|Céliba

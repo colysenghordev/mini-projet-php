@@ -1,0 +1,7 @@
+abc|Coly|Senghor|12-15-1245|77 452 89 32|cs@gmail.com|Céliba
+def|Bassirou|Biteye|20-15-4789|77 015 25 63|bb@gmail.com|Céliba
+ghi|Ousmane|Diop|64-25-1423|70 215 69 75|od@gmail.com|Céliba
+jkl|DMG|Gaye|15-48-5689|77 524 36 95|dmg@gmail.com|Céliba
+mno|Badou|Zalé|45-78-1256|78 582 46 95|bz@yahoo.fr|Céliba
+pqr|Fatou|Diouf|06-12-2000|70 158 65 42|fd@gmail.com|Céliba
+stu|Théo|Faye|12-05-1987|77 158 95 63|th@yahoo.fr|Céliba
